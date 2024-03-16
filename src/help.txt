@@ -1,0 +1,4 @@
+help - Access help documentation
+sysinfo - See system info
+shutdown - Shut down the system
+reboot - Reboot the system
